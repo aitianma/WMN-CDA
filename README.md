@@ -177,7 +177,7 @@ python3 cda_exp_fewshot_rs0.py
 
 ## 📄 Publications
 
-This work has been published in the **IEEE/ACM Transactions on Networking**, 2023. For more details, see:
+This work has been published in the **ACM Symposium on Applied Computing**, 2025. For more details, see:
 
 - Aitian Ma, Mo Sha  
   *WMN-CDA:Contrastive Domain Adaptation for Wireless Mesh Network Configuration*,  
