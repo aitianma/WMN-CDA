@@ -2,7 +2,7 @@
 
 📄 [**Paper Link**](https://users.cs.fiu.edu/~msha/publications/sac25.pdf)
 
-This repository contains the official implementation of **WMN-CDA**, a contrastive domain adaptation framework for wireless mesh networks. 
+This repository contains the official implementation of **WMN-CDA**, a contrastive domain adaptation framework for wireless mesh networks configuration. 
 
 ## 📌 Overview
 
