@@ -170,7 +170,6 @@ python3 cda_exp_fewshot_rs0.py
 - `cda_exp_diff_keyparameter_alpha_rs0.py` – alpha sensitivity experiments
 - `cda_exp_diff_keyparameter_beta_rs0.py` – beta sensitivity experiments
 - `cda_exp_fewshot_rs0.py` – few-shot learning experiments
-- `models/`, `utils/`, `losses/` – model components and training utilities
 
 ---
 
